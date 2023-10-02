@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @PedroMarafiga
-- 👀 I’m interested in learning,currently studyng computer engineering
-- 🌱 I’m currently learning C, Python and Java
-- 💞️ I’m looking to collaborate on anything that can bring me knowledge
-- 📫 How to reach me pmarafiga15@gmail.com
+- Hello, welcome to my GitHub Profile 👋
+
+- I am currently studying computer engineer at UTFPR(Universidade Trcnológica Federal do Paraná)
 
 <!---
 PedroMarafiga/PedroMarafiga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
